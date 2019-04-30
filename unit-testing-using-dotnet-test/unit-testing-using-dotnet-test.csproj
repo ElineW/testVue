@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>unit_testing_using_dotnet_test</RootNamespace>
+  </PropertyGroup>
+
+</Project>
